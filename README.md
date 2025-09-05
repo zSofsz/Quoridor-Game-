@@ -4,9 +4,6 @@ Quoridor
 
 Quoridor is a local multiplayer game between 2 to 4 players, and it's short, about 15 minutes per round, quick and easy, you can play anywhere, anytime, one click away.
 
-This project features:
-
-
 Version
 README edited in 2022/11/22
 
